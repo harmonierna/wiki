@@ -1,0 +1,2 @@
+[[Power Law]] 
+[[EMH]]
