@@ -1,0 +1,1 @@
+Autoscaling is .... often used in [[Kubernetes]] 
