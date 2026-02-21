@@ -161,3 +161,4 @@ Design Thinking is nonlinear.
 ![[empathy_canvas.png]]
 
 ### Idea Canvas
+![[idea_canvas.pdf]]
